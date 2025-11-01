@@ -34,7 +34,7 @@ Edit `.aicodereviewrc.json` to change the model, context limits, and guidelines.
 
 - Locally, results are printed to console.
 - You can wire PR comments later via GitHub API if needed.
+##PREVIEW
 <img width="2047" height="1331" alt="image" src="https://github.com/user-attachments/assets/dfefadfb-d667-4e17-8463-58961dc2aea5" />
-
-- When it worked (Ollama replies to some user inputs)
-- 
+- When it worked (Ollama replies to some user inputs) 
+  
